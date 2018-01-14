@@ -1,5 +1,5 @@
 {
-  "name": "cli",
+  "name": "cpucoin",
   "version": "1.0.0",
   "description": "cli for computecoin",
   "main": "index.js",
@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/ComputeCoin/cli/issues"
   },
-  "homepage": "https://github.com/ComputeCoin/cli#readme"
+  "homepage": "https://github.com/ComputeCoin/cli#readme",
+
+  "preferGlobal": true,
+  "bin": {
+    "cpucoin": "./bin/cpucoin"
+  }
 }
