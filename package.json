@@ -1,0 +1,23 @@
+{
+  "name": "cli",
+  "version": "1.0.0",
+  "description": "cli for computecoin",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^2.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ComputeCoin/cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ComputeCoin/cli/issues"
+  },
+  "homepage": "https://github.com/ComputeCoin/cli#readme"
+}
